@@ -44,7 +44,7 @@ Don't hesitate to ask for help if you are stuck.
 
 print the result in the terminal
 
-# To go further
+# 4. Store your data
 
 when you do a scrapper we have to store our data somewhere, you can store it in a json file, in a csv file, in a database, etc...
 
